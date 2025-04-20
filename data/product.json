@@ -1,0 +1,266 @@
+[
+  {
+    "id": "100001",
+    "category": "Dairy",
+    "name": "Milk",
+    "price": 199
+  },
+  {
+    "id": "100002",
+    "category": "Dairy",
+    "name": "Yogurt",
+    "price": 230
+  },
+  {
+    "id": "100003",
+    "category": "Dairy",
+    "name": "Cheese",
+    "price": 432
+  },
+  {
+    "id": "100004",
+    "category": "Dairy",
+    "name": "Chocolate Milk",
+    "price": 249
+  },
+  {
+    "id": "100005",
+    "category": "Dairy",
+    "name": "String Cheese",
+    "price": 366
+  },
+  {
+    "id": "100006",
+    "category": "Dairy",
+    "name": "Cottage Cheese",
+    "price": 398
+  },
+  {
+    "id": "100007",
+    "category": "Dairy",
+    "name": "Smoothie",
+    "price": 270
+  },
+  {
+    "id": "100008",
+    "category": "Dairy",
+    "name": "Pudding",
+    "price": 210
+  },
+  {
+    "id": "100009",
+    "category": "Vegetables",
+    "name": "Broccoli",
+    "price": 110
+  },
+  {
+    "id": "100010",
+    "category": "Vegetables",
+    "name": "Asparagus",
+    "price": 120
+  },
+  {
+    "id": "100011",
+    "category": "Vegetables",
+    "name": "Bell Peppers",
+    "price": 170
+  },
+  {
+    "id": "100012",
+    "category": "Vegetables",
+    "name": "Corn",
+    "price": 250
+  },
+  {
+    "id": "100013",
+    "category": "Vegetables",
+    "name": "Avocado",
+    "price": 230
+  },
+  {
+    "id": "100014",
+    "category": "Vegetables",
+    "name": "Carrots",
+    "price": 180
+  },
+  {
+    "id": "100015",
+    "category": "Vegetables",
+    "name": "Spinach",
+    "price": 110
+  },
+  {
+    "id": "100016",
+    "category": "Vegetables",
+    "name": "Sweet Potatos",
+    "price": 90
+  },
+  {
+    "id": "100017",
+    "category": "Vegetables",
+    "name": "Tomatoes",
+    "price": 140
+  },
+  {
+    "id": "100018",
+    "category": "Fruits",
+    "name": "Strawberries",
+    "price": 160
+  },
+  {
+    "id": "100019",
+    "category": "Fruits",
+    "name": "Apple",
+    "price": 90
+  },
+  {
+    "id": "100020",
+    "category": "Fruits",
+    "name": "Banana",
+    "price": 100
+  },
+  {
+    "id": "100021",
+    "category": "Fruits",
+    "name": "Blueberries",
+    "price": 220
+  },
+  {
+    "id": "100022",
+    "category": "Fruits",
+    "name": "Orange",
+    "price": 120
+  },
+  {
+    "id": "100023",
+    "category": "Fruits",
+    "name": "Watermelon",
+    "price": 150
+  },
+  {
+    "id": "100024",
+    "category": "Fruits",
+    "name": "Grapes",
+    "price": 210
+  },
+  {
+    "id": "100025",
+    "category": "Fruits",
+    "name": "Mango",
+    "price": 310
+  },
+  {
+    "id": "100026",
+    "category": "Fruits",
+    "name": "Pear",
+    "price": 190
+  },
+  {
+    "id": "100027",
+    "category": "Grains",
+    "name": "Tortillas",
+    "price": 320
+  },
+  {
+    "id": "100028",
+    "category": "Grains",
+    "name": "Cereal",
+    "price": 197
+  },
+  {
+    "id": "100029",
+    "category": "Grains",
+    "name": "Rice",
+    "price": 536
+  },
+  {
+    "id": "100030",
+    "category": "Grains",
+    "name": "Bread",
+    "price": 390
+  },
+  {
+    "id": "100031",
+    "category": "Grains",
+    "name": "Pasta",
+    "price": 492
+  },
+  {
+    "id": "100032",
+    "category": "Grains",
+    "name": "Popcorn",
+    "price": 192
+  },
+  {
+    "id": "100033",
+    "category": "Grains",
+    "name": "Crackers",
+    "price": 288
+  },
+  {
+    "id": "100034",
+    "category": "Grains",
+    "name": "Bagel",
+    "price": 312
+  },
+  {
+    "id": "100035",
+    "category": "Grains",
+    "name": "Oatmeal",
+    "price": 238
+  },
+  {
+    "id": "100036",
+    "category": "Protein",
+    "name": "Eggs",
+    "price": 228
+  },
+  {
+    "id": "100037",
+    "category": "Protein",
+    "name": "Tuna",
+    "price": 389
+  },
+  {
+    "id": "100038",
+    "category": "Protein",
+    "name": "Hamburger",
+    "price": 786
+  },
+  {
+    "id": "100039",
+    "category": "Protein",
+    "name": "Nuts",
+    "price": 494
+  },
+  {
+    "id": "100040",
+    "category": "Protein",
+    "name": "Chicken",
+    "price": 549
+  },
+  {
+    "id": "100041",
+    "category": "Protein",
+    "name": "Tofu",
+    "price": 147
+  },
+  {
+    "id": "100042",
+    "category": "Protein",
+    "name": "Beans",
+    "price": 234
+  },
+  {
+    "id": "100043",
+    "category": "Protein",
+    "name": "Salmon",
+    "price": 938
+  },
+  {
+    "id": "100044",
+    "category": "Protein",
+    "name": "Pork Chops",
+    "price": 899
+  }
+]
